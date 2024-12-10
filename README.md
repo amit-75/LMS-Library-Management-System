@@ -144,7 +144,7 @@ These routes require JWT authentication with the Librarian role.
 
 ## Database Structure
 
-You can describe the tables and relationships here:
+Tables and relationships are here:
 
 - Users Table: Contains details for both Librarians and Members.
 - Books Table: Stores book information.
